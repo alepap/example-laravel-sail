@@ -9,6 +9,7 @@
 
 # **Istruzioni**
 <ul>
+<li>creare File .env copiandone il contenuto da .env.example</li>
 <li>Lanciare migration (sail artisan migration)</li>
 <li>Lanciare seed per generare utente (sail artisan db:seed)</li>
 <li>Effettuare Login tramite Postman (http://localhost/api/v1/login name=root, password=password)</li>
