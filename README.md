@@ -8,12 +8,13 @@
 </p>
 
 # **Istruzioni**
-Lanciare migration (_sail artisan migration_)
-Lanciare seed per generare utente (_sail artisan db:seed_)
-Effettuare Login tramite Postman (_http://localhost/api/v1/login_ name=**root**, password=**password**)
-Url API _http://localhost/api/v1/beers_
-Eseguire test (_sail artisan test_)
-
+<ul>
+<li>Lanciare migration (_sail artisan migration_)</li>
+<li>Lanciare seed per generare utente (_sail artisan db:seed_)</li>
+<li>Effettuare Login tramite Postman (_http://localhost/api/v1/login_ name=**root**, password=**password**)</li>
+<li>Url API _http://localhost/api/v1/beers_ </li>
+<li>Eseguire test (_sail artisan test_) </li>
+</ul>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
