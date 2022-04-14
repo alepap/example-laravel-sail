@@ -9,11 +9,11 @@
 
 # **Istruzioni**
 <ul>
-<li>Lanciare migration (_sail artisan migration_)</li>
-<li>Lanciare seed per generare utente (_sail artisan db:seed_)</li>
-<li>Effettuare Login tramite Postman (_http://localhost/api/v1/login_ name=**root**, password=**password**)</li>
-<li>Url API _http://localhost/api/v1/beers_ </li>
-<li>Eseguire test (_sail artisan test_) </li>
+<li>Lanciare migration (sail artisan migration)</li>
+<li>Lanciare seed per generare utente (sail artisan db:seed)</li>
+<li>Effettuare Login tramite Postman (http://localhost/api/v1/login name=root, password=password)</li>
+<li>Url API http://localhost/api/v1/beers </li>
+<li>Eseguire test (sail artisan test) </li>
 </ul>
 ## About Laravel
 
